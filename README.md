@@ -1,12 +1,13 @@
 # Hey there 👋
 
 I'm **Evan Takahashi**, a CS Student/Researcher prev. at NVIDIA, Stanford, Zoom, and Incoming AI/ML @ Honeywell 
-interested in **Mechanistic Interpretability**, **Parallel Computing**, and **LLM Research**. 
+
+Interested in **Mechanistic Interpretability**, **Parallel Computing**, and **LLM Research**. 
 
 - 🚀 Currently working through **ARENA 2.0** and **Stanford's Parallel Computing**.
 - 🛠️ Building artifacts in **FSDP**, **CUDA**, and **C++**.
 - 📬 Reach me at: evan10takahashi@gmail.com
-- 
+  
 ### 💻 Technical Stack
 
 <p align="left">
@@ -18,5 +19,5 @@ interested in **Mechanistic Interpretability**, **Parallel Computing**, and **LL
 </p>
 
 ### 📊 Statistics
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-glow)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-glow)
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evantakahashi&show_icons=true&theme=vision-glow)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evantakahashi&layout=compact&theme=vision-glow)
