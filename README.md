@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm **Evan Takahashi**, a CS Student/Researcher prev. at NVIDIA, Stanford, Zoom, and Incoming AI/ML @ Honeywell 
+I'm **Evan Takahashi**, a CS Student/Researcher incoming AI/ML @ Honeywell and previously at NVIDIA, Stanford, Zoom, and  
 
 Interested in **Mechanistic Interpretability**, **Parallel Computing**, and **LLM Research**. 
 
