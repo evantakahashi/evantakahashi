@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**evantakahashi/evantakahashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Evan Takahashi**, a CS Student/Researcher prev. at NVIDIA, Stanford, Zoom, and Incoming AI/ML @ Honeywell 
+interested in **Mechanistic Interpretability**, **Parallel Computing**, and **LLM Research**. 
 
-Here are some ideas to get you started:
+- 🚀 Currently working through **ARENA 2.0** and **Stanford's Parallel Computing**.
+- 🛠️ Building artifacts in **FSDP**, **CUDA**, and **C++**.
+- 📬 Reach me at: evan10takahashi@gmail.com
+- 
+### 💻 Technical Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Compute-CUDA-green?style=for-the-badge&logo=nvidia" />
+  <img src="https://img.shields.io/badge/Library-PyTorch-red?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/Systems-Linux-gray?style=for-the-badge&logo=linux" />
+</p>
+
+### 📊 Statistics
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-glow)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-glow)
