@@ -17,7 +17,3 @@ Interested in **Mechanistic Interpretability**, **Parallel Computing**, and **LL
   <img src="https://img.shields.io/badge/Library-PyTorch-red?style=for-the-badge&logo=pytorch" />
   <img src="https://img.shields.io/badge/Systems-Linux-gray?style=for-the-badge&logo=linux" />
 </p>
-
-### 📊 Statistics
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evantakahashi&show_icons=true&theme=vision-glow)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evantakahashi&layout=compact&theme=vision-glow)
